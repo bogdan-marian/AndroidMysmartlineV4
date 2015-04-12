@@ -1,13 +1,13 @@
-bin
-/
-gen
-/
-
 .gradle
+.idea
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+#/.idea/workspace.xml
+#/.idea/libraries
+#/.idea/.name
 .DS_Store
 /build
 
 **/build/**
+
+**/*.iml
+

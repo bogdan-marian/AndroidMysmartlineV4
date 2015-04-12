@@ -31,6 +31,10 @@ import com.google.gson.Gson;
 
 import eu.mysmartline.appv3.models.MyKeys;
 
+/**
+ * TODO Refactor list show it shows also icons.
+ * This is the main screen.
+ */
 public class Activity3ListActivityes extends Activity {
 	private List<Map<String, String>> items = new ArrayList<Map<String, String>>();
 	private String logTag = MyKeys.PROPERTY_LOGTAG;
