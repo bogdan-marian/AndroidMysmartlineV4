@@ -11,3 +11,7 @@
 
 **/*.iml
 
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+app/app.iml
