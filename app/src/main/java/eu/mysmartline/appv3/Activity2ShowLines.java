@@ -35,6 +35,9 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
+/**
+ * some info
+ */
 public class Activity2ShowLines extends Activity {
 
 	public static final String PROPERTY_REG_ID = "registration_id";
